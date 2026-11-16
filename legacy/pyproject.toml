@@ -1,0 +1,22 @@
+[project]
+name = "DATN"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=1.24",
+    "opencv-python>=5.0.0.93",
+    "pandas>=2.0",
+    "pillow>=10.0",
+    "plotly>=5.20",
+    "roboflow>=0.1.1",
+    "streamlit>=1.50",
+    "ultralytics>=8.4.172",
+]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/cu121"

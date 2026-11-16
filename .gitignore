@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/
+*.pt
+*.mp4
+
+# Local traffic footage, datasets and generated artifacts
+*.avi
+*.mkv
+*.mov
+*.zip
+*.engine
+*.onnx
+*.cache
+*.lock
+*.jsonl
+*.jpg
+*.jpeg
+**/results/realtime/
+**/03.*
+~$*.docx

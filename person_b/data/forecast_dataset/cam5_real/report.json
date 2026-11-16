@@ -1,0 +1,45 @@
+{
+  "source": "Person A full cam5 logs",
+  "events": 1031,
+  "class_counts": {
+    "motorbike": 849,
+    "car": 152,
+    "truck": 26,
+    "bus": 4
+  },
+  "directions": {
+    "toward": 620,
+    "away": 411
+  },
+  "start": "2026-04-09 13:41:50+07:00",
+  "end": "2026-04-09 14:07:34.333333333+07:00",
+  "duration_seconds": 1544.35,
+  "coverage": {
+    "1": {
+      "complete_intervals_per_direction": 25,
+      "partial_intervals_per_direction": 2
+    },
+    "5": {
+      "complete_intervals_per_direction": 4,
+      "partial_intervals_per_direction": 2
+    }
+  },
+  "expected_tracking_frames": 46331,
+  "missing_tracking_frames": 1,
+  "source_sha256": "aeec0a230801af77a4c375811e603fe3672c3d36fb46eb91489edd777ff615d0",
+  "validation": [
+    "Video metadata agrees with log metadata",
+    "Event times agree with frames and timestamps",
+    "No interior stride-frame gaps; missing final frame excluded from coverage",
+    "All 1031 events conserved",
+    "One-minute totals match supplied aggregate"
+  ],
+  "forecast_sequence_count_60min_history_30min_future": 0,
+  "training_ready": false,
+  "limitations": [
+    "25.7 minutes cannot provide the configured 60-minute history and 30-minute future.",
+    "Counts are automatic, not manually verified ground truth.",
+    "Recording date and line configuration are supplied by Person A.",
+    "Tracker resets at segment boundaries may affect crossing counts; manual boundary review remains necessary."
+  ]
+}

@@ -1,0 +1,11 @@
+path: D:\code\DATN\vietnam-vehicle-detection-2
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names:
+  - motorbike
+  - car
+  - truck
+  - bus

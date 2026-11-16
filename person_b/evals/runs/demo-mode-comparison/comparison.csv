@@ -1,0 +1,7 @@
+order,pair,device,frame_skip,source_fps,decoded,processed,skipped,dropped,unaccounted,processed_fps,wall_seconds,video_seconds,p50_ms,p95_ms,peak_process_rss_mib,peak_torch_cuda_mib,alerts,clips_saved,clips_busy,clips_failed,crossings,out,wrongway_tp,wrongway_fp,wrongway_fn,wrongway_time_error_s
+1,1,cuda:0,auto,60.0,840,201,637,2,0,14.26,21.55,14.0,47.0,93.0,1472.8,42.6,4,4,0,0,12,pair-1-skip-auto,2,0,0,0.6750000000000003
+2,1,cuda:0,3,60.0,840,207,630,3,0,14.72,14.81,14.0,47.0,125.0,1485.9,64.3,4,4,0,0,12,pair-1-skip-3,2,0,0,0.6999999999999997
+3,2,cuda:0,3,60.0,840,210,630,0,0,14.92,15.05,14.0,47.0,94.0,1494.1,44.4,4,4,0,0,12,pair-2-skip-3,2,0,0,0.8333333333333335
+4,2,cuda:0,auto,60.0,840,205,634,1,0,14.51,15.41,14.0,47.0,94.0,1489.0,61.7,4,4,0,0,12,pair-2-skip-auto,2,0,0,0.8166666666666664
+5,3,cuda:0,auto,60.0,840,192,646,2,0,13.64,14.86,14.0,47.0,110.0,1487.2,74.8,4,4,0,0,13,pair-3-skip-auto,2,0,0,0.6916666666666664
+6,3,cuda:0,3,60.0,840,209,630,1,0,14.83,14.94,14.0,62.0,94.0,1497.0,78.6,4,4,0,0,12,pair-3-skip-3,2,0,0,0.6999999999999997

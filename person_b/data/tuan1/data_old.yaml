@@ -1,0 +1,7 @@
+path: D:/DoAn_GiaoThong/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['xe_hoi', 'xe_may', 'xe_tai', 'bus']

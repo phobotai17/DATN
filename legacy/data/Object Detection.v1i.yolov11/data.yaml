@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['bus', 'xe_hoi', 'xe_may', 'xe_tai']
+
+roboflow:
+  workspace: khi-workspace
+  project: object-detection-0asvr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/khi-workspace/object-detection-0asvr/dataset/1
