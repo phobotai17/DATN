@@ -1,0 +1,22 @@
+{
+  "validation_type": "synthetic and schema only",
+  "real_tracking_validation": "pending: no real log available",
+  "tests_passed": 6,
+  "synthetic_seed": 42,
+  "synthetic_duration_minutes": 20,
+  "synthetic_fps": 5,
+  "tracking_rows": 10032,
+  "unique_track_ids": 459,
+  "output_5min_intervals": 4,
+  "csv_roundtrip": "passed",
+  "cli_matches_module": true,
+  "mock_rows_validated": 288,
+  "unverified_sample_rows_validated_at_1min": 20,
+  "count_definition": "unique vehicles observed per interval, not line crossings",
+  "limitations": [
+    "Synthetic data cannot establish real traffic accuracy.",
+    "Boundary intervals may be partial.",
+    "Interior zero filling assumes a continuous recording.",
+    "Do not mix recording sessions or count definitions."
+  ]
+}

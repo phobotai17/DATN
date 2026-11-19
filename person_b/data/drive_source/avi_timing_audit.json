@@ -1,0 +1,14 @@
+{
+  "file_id": "1307aXLAziibIW7_GeeJKgl-HCNr2y_Gd",
+  "downloaded_bytes": 262464284,
+  "header_fps": 600,
+  "header_frames": 72337,
+  "sequential_decoded_frames": 2922,
+  "overlay_start": "2022-09-21 13:00:00.007",
+  "overlay_end": "2022-09-21 13:02:00.569",
+  "overlay_timezone_label": "WIB",
+  "visible_elapsed_seconds": 120.562,
+  "complete_5min_intervals": 0,
+  "timestamp_method_required": "verified overlay or presentation timestamps, not decoded index/header FPS",
+  "training_eligible": false
+}

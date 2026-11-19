@@ -1,0 +1,4 @@
+﻿time_s,track_id,event,vehicle_class,zone,speed,speed_unit,peer_median,peer_count,angle_deg,clip,clip_status
+3.1333333333333333,10,zone_wrong_way,xe_may,away_side,,,,,,clips/track_10_000001.mp4,saved
+5.733333333333333,3,zone_wrong_way,xe_hoi,away_side,,,,,,clips/track_3_000002.mp4,saved
+8.333333333333334,7,zone_wrong_way,xe_hoi,away_side,,,,,,clips/track_7_000003.mp4,saved
