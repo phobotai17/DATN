@@ -1,6 +1,0 @@
-# Cài torch/torchvision TRƯỚC theo README, rồi mới cài các gói dưới đây
-ultralytics>=8.4.172
-opencv-python
-numpy
-pandas
-streamlit
