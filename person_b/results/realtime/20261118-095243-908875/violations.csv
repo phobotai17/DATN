@@ -1,3 +1,0 @@
-﻿time_s,track_id,event,vehicle_class,zone,speed,speed_unit,peer_median,peer_count,angle_deg,clip,clip_status
-3.6333333333333333,3,abrupt_turn,xe_may,road,,,,,56.7,clips/track_3_000001.mp4,saved
-11.25,9,abrupt_turn,xe_hoi,road,,,,,158.2,clips/track_9_000002.mp4,saved

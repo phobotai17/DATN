@@ -1,2 +1,0 @@
-time_s,motorbike,car,truck,bus,total_vehicles,bucket_seconds,coverage_seconds_lower_bound,complete_interval
-0,63,8,3,1,75,300,119.967,False
