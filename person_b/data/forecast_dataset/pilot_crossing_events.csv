@@ -1,0 +1,21 @@
+camera_id,session_id,line_id,timestamp,time_s,track_id,class_name,direction,review_status
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:46.315080419+07:00,0.3150804197325294,1,car,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:47.325475737+07:00,1.3254757378325444,59,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:47.473662100+07:00,1.4736621004244799,51,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:47.763745183+07:00,1.7637451836346554,14,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:48.400555361+07:00,2.400555361844507,102,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:48.785449580+07:00,2.785449580251557,145,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:49.614087447+07:00,3.6140874473617095,137,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:50.034031044+07:00,4.034031044265426,219,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:50.909080244+07:00,4.90908024484889,278,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:30:53.795676656+07:00,7.795676656597952,226,motorbike,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:07.567829219+07:00,21.567829219969806,495,motorbike,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:10.427398281+07:00,24.427398281017275,528,motorbike,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:12.037997077+07:00,26.037997077736524,547,car,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:14.288643544+07:00,28.28864354496652,585,car,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:15.239183358+07:00,29.239183358534717,613,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:20.082748597+07:00,34.0827485976137,680,car,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:28.606809240+07:00,42.606809240348404,810,car,up,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:29.137643702+07:00,43.13764370217772,788,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:43.406860211+07:00,57.406860211835955,1314,motorbike,down,unreviewed
+nguyen_thai_hoc_trinh_hoai_duc,1VB0CZ2khc6hAO4T88rEjblGBSk6MyUMI,pilot_y60,2022-09-25 16:31:46.392383261+07:00,60.39238326188929,1505,motorbike,up,unreviewed

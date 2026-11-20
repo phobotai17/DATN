@@ -1,0 +1,23 @@
+{
+  "status": "Đã dừng",
+  "processed": 1576,
+  "device": "cuda:0",
+  "benchmark_ms": 31.9999999992433,
+  "log_dir": "D:\\code\\DATN\\person_b\\results\\realtime\\20261116-224257-880859",
+  "source_fps": 60.0,
+  "forecast": {
+    "origin": 302.1166666666667,
+    "target": 602.1166666666667,
+    "values": {
+      "road": 11.616666666666667
+    }
+  },
+  "time_s": 314.78333333333336,
+  "dropped": 17323,
+  "processed_fps": 4.991527705195804,
+  "latency_ms": 688.0000000019209,
+  "p95_ms": 328.0000000013388,
+  "sampling_fps": 4.275599941217347,
+  "forecast_mae": 5.0,
+  "forecast_samples": 1
+}

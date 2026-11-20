@@ -1,0 +1,5 @@
+﻿bien_the,fps,xe_qua_vach,khop_voi_goc,thua,canh_bao,canh_bao_khop,canh_bao_thua
+1. PyTorch FP32 (gốc),22.3,45,45/45,0,5,5/5,0
+"2. TensorRT FP16, đọc tuần tự",30.2,44,44/45,0,6,5/5,1
+"3. TensorRT FP16, luồng đọc riêng",40.8,44,44/45,0,6,5/5,1
+"4. TensorRT FP16, luồng đọc riêng, có vẽ video",34.9,44,44/45,0,6,5/5,1

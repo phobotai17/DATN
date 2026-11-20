@@ -1,0 +1,29 @@
+{
+  "data_source": "synthetic mock data; not real traffic performance",
+  "source": "D:\\code\\DATN\\person_b\\data\\mock_traffic_data.csv",
+  "source_sha256": "5f3cfdef642bf8b5246949bd872162c31313fec0e3375d7c4eab8fc44279c2b8",
+  "seed": 42,
+  "epochs": 25,
+  "train_rows": 230,
+  "test_rows": 58,
+  "train_end": "2026-09-01 19:05:00",
+  "test_start": "2026-09-01 19:10:00",
+  "forecast_origins_per_model": 53,
+  "history_minutes": 60,
+  "horizon_minutes": 30,
+  "interval_minutes": 5,
+  "checkpoint_roundtrip": "passed",
+  "protocol": "Chronological 80/20 split; fixed training; identical rolling origins for all methods; scaler fitted on train only.",
+  "limitations": [
+    "One synthetic day cannot establish generalization.",
+    "Overlapping forecast windows are not independent samples.",
+    "No tuning or model selection performed on test data.",
+    "Seasonal naive uses a one-hour lag, not a daily cycle.",
+    "MAPE excludes zero targets; all-zero targets are reported as zero by the existing metric helper."
+  ],
+  "versions": {
+    "torch": "2.5.1+cu121",
+    "pandas": "3.0.6",
+    "numpy": "2.4.6"
+  }
+}

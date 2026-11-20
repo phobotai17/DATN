@@ -1,0 +1,30 @@
+{
+  "tracking_source": "D:\\code\\DATN\\person_b\\data\\tracking_log_fixed.csv",
+  "events_source": "D:\\code\\DATN\\person_b\\data\\count_events_fixed.csv",
+  "time_basis": "seconds since video start; actual recording date unknown",
+  "duration_lower_bound_seconds": 119.967,
+  "tracking_rows": 40755,
+  "unique_tracks": 290,
+  "crossing_events": 75,
+  "crossings_by_class": {
+    "motorbike": 63,
+    "car": 8,
+    "truck": 3,
+    "bus": 1
+  },
+  "crossings_by_direction": {
+    "toward": 50,
+    "away": 25
+  },
+  "tracks_with_class_changes": 24,
+  "event_tracking_match": "passed",
+  "complete_5min_intervals": 0,
+  "forecast_training_ready": false,
+  "limitations": [
+    "Duration is inferred from the last detection, not video metadata.",
+    "Coverage assumes a continuous recording; detection logs alone cannot prove it.",
+    "Observed counts use whole-recording majority class; crossing counts retain event class.",
+    "Relative-time outputs are not timestamp-based forecasting input.",
+    "Collect a longer continuous series before forecasting training."
+  ]
+}
